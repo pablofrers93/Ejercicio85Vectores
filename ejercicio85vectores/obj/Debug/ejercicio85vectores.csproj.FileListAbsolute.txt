@@ -1,0 +1,6 @@
+/Users/pabloycami/Projects/ejercicio85vectores/bin/Debug/ejercicio85vectores.exe
+/Users/pabloycami/Projects/ejercicio85vectores/bin/Debug/ejercicio85vectores.pdb
+/Users/pabloycami/Projects/ejercicio85vectores/obj/Debug/ejercicio85vectores.csprojAssemblyReference.cache
+/Users/pabloycami/Projects/ejercicio85vectores/obj/Debug/ejercicio85vectores.csproj.CoreCompileInputs.cache
+/Users/pabloycami/Projects/ejercicio85vectores/obj/Debug/ejercicio85vectores.exe
+/Users/pabloycami/Projects/ejercicio85vectores/obj/Debug/ejercicio85vectores.pdb
